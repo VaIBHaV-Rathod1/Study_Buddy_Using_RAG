@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.study" />
+      <excludeFolder url="file://$MODULE_DIR$/study" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (Study_Buddy_App_using_RAG)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (Study_Buddy_App_using_RAG)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
